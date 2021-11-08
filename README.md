@@ -1,4 +1,7 @@
 # vigs_noble
-The VIGS database from the Noble Foundation
 
-This code is copyright &copy; 2021, The Noble Foundation. 
+The code behind the VIGS database, originally created at the Noble Foundation.
+
+The original creators were Junil Chang, Melanie Davis, Andrew Segna and Kiran Mysore. 
+
+The site has been transferred to the Boyce Thompson Institute.
