@@ -1,4 +1,4 @@
-# vigs_noble
+# VIGS Database
 
 The code behind the VIGS database, originally created at the Noble Foundation.
 
