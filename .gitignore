@@ -23,3 +23,4 @@ node_modules/
 *.sqlite
 
 var/www/html/admin/config.inc.php
+*~
